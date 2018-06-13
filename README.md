@@ -1,6 +1,6 @@
 ### iFund Frontend Take-home Test
 
-This is an introductory coding challenge to evaluate candidates interested in joining the team at iFund as a frontend engineer and tt is meant to be fun and short.
+This is an introductory coding challenge to evaluate candidates interested in joining the team at iFund as a frontend engineer and it is meant to be fun and short.
 
 #### Requirement
 
